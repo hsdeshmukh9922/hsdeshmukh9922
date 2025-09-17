@@ -2,7 +2,7 @@
 
 🎓 Final-year **B.Tech in Computer Engineering** at R. C. Patel Institute of Technology, Shirpur  
 💻 Passionate about **Java Full-Stack Development, Cloud, DevOps, and Machine Learning**  
-🌱 Currently preparing for **CDAC C-CAT** & improving problem-solving skills  
+🌱 Currently preparing for **SAP-ABAP: GLobal Certification Exam** & improving problem-solving skills  
 
 ---
 
